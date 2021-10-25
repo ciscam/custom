@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include kautenburger_it *.css
+recursive-include kautenburger_it *.csv
+recursive-include kautenburger_it *.html
+recursive-include kautenburger_it *.ico
+recursive-include kautenburger_it *.js
+recursive-include kautenburger_it *.json
+recursive-include kautenburger_it *.md
+recursive-include kautenburger_it *.png
+recursive-include kautenburger_it *.py
+recursive-include kautenburger_it *.svg
+recursive-include kautenburger_it *.txt
+recursive-exclude kautenburger_it *.pyc
