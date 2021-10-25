@@ -15,7 +15,7 @@ app_license = "GPLv3"
 # ------------------
 
 # include js, css files in header of desk.html
-# app_include_css = "/assets/kautenburger_it/css/kautenburger_it.css"
+app_include_css = ["/assets/kautenburger_it/css/task.css"]
 # app_include_js = "/assets/kautenburger_it/js/kautenburger_it.js"
 
 # include js, css files in header of web template
